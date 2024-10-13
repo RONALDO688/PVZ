@@ -1,0 +1,35 @@
+header, footer {
+    background-color: lightgreen;
+    text-align: center;
+    padding: 10px;
+    color: rgb(162, 0, 255);
+}
+
+nav {
+    padding: 20px 10px;
+}
+nav a{
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding: 10px;
+    text-decoration: none;
+    margin: 15px;
+    color : black
+}
+.PVZ{
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 350px;
+    text-align: center;
+}
