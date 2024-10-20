@@ -1,4 +1,4 @@
-header, footer {
+ 	header, footer {
     background-color: lightgreen;
     text-align: center;
     padding: 10px;
@@ -26,10 +26,21 @@ h1 {
 }
 h2 {
     text-align: center;
+
 }
 
 img {
     width: 500px;
     height: 350px;
     text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+header:hover{
+transition-property: background;
+text-decoration: 1s;
+background-color: aqua;
 }
